@@ -1,10 +1,7 @@
-
+// app/page.tsx (Server Component)
+import { redirect } from "next/navigation";
 
 export default function Home() {
-  return (
-
-    <div>
-      oi
-    </div>
-  );
+  // redireciona imediatamente para /products
+  redirect("/products");
 }
