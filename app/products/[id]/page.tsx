@@ -23,7 +23,7 @@ export default async function ProductDetailsPage({ params }: Props) {
                             </svg>
                         </div>
                         <h1 className="text-2xl font-light text-gray-900 mb-4">
-                            Produto não encontrado
+                            Produto não encontrado 
                         </h1>
                         <p className="text-gray-600 mb-8">
                             O produto que você está procurando não existe ou foi removido.
