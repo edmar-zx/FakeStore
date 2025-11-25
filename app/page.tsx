@@ -1,5 +1,9 @@
-import { redirect } from "next/navigation";
+import ProductList from "@/components/ProductList";
 
 export default function Home() {
-  redirect("/products");
+  return (
+    <div className="bg-white">
+      <ProductList />
+    </div>
+  );
 }
