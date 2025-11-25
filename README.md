@@ -9,7 +9,7 @@ Cada atividade será organizada em uma **branch** diferente.
 ## Estrutura do Repositório
 
 - **atividade-1**: Branch que corresponde à **primeira atividade**, já integrada à branch main.
-- **atividade-2**:
+- **atividade-2**: Branch que corresponde à **segunda atividade**, já integrada à branch atividade-2.
 - **atividade-3**:
 - **atividade-4**:
 
